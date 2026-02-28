@@ -1,3 +1,5 @@
+import { connection } from "../../DB/connection.db.js";
+
 export const getProfile = (req, res , next) =>{
     const {id} = req.params;
     console.log({id});
