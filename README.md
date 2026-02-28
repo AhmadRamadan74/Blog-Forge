@@ -84,9 +84,10 @@ Separate table created because `phone` is a multivalued attribute.
 ## Diagrams
 
 ### ERD
-<img width="968" height="709" alt="ERD" src="https://github.com/user-attachments/assets/387c73cb-fb4c-4f14-bf6f-c6be6f776c15" />
-### Mapping
-<img width="752" height="704" alt="Mapping" src="https://github.com/user-attachments/assets/2d2bbdc0-2bb7-4500-8593-db77fc6ebb60" />
+![ERD](ERD.png)
+
+### Relational Mapping
+![Mapping](Mapping.png)
 
 ---
 
